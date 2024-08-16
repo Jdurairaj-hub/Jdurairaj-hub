@@ -1,5 +1,5 @@
 
-<a href="https://ibb.co/XshhgqY"><img src="https://i.ibb.co/3NDDqnR/DALL-E-2024-05-15-18-55-45-Create-a-Git-Hub-banner-featuring-a-black-Indian-man-coding-at-a-sophisti.webp" alt="DALL-E-2024-05-15-18-55-45-Create-a-Git-Hub-banner-featuring-a-black-Indian-man-coding-at-a-sophisti" border="0" /></a>
+
 <h1 align="center">Hi 👋, I'm John Victor</h1>
 <h3 align="center">A Computer Science Student Passionate About Innovation and Seeking New Opportunities</h3>
 
