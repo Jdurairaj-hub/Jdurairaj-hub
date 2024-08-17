@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdurairaj-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jdurairaj-hub" /> </p>
 
-- 🔭 I’m currently working on [Cyber Detect](https://github.com/Jdurairaj-hub/cyber-detect)
+- 🔭 I’m currently working on [Learn Fast]((https://github.com/Jdurairaj-hub/LearnFast))
 
 - 🌱 I’m currently learning **Django, Infrastructure**
 
