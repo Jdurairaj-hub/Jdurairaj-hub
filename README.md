@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Learn Fast]((https://github.com/Jdurairaj-hub/LearnFast))
 
-- 🌱 I’m currently learning **Django, Infrastructure**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Software Development/Web Development**
+- 💬 Ask me about **Software Engineering/DevOps**
 
 - 📫 How to reach me **johnvictor843@hotmail.com**
 
