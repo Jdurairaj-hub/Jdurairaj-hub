@@ -1,27 +1,28 @@
 
 
 <h1 align="center">Hi 👋, I'm John Victor</h1>
-<h3 align="center">A Computer Science Student Passionate About Innovation and Seeking New Opportunities</h3>
+<!-- <h3 align="center">A Computer Science Student Passionate About Innovation and Seeking New Opportunities</h3> -->
 
 <p align="center">
-  <img src="./image_github.jpeg" alt="Profile Banner" />
+  <img src="./image_github.jpeg" alt="Profile Banner" style="width:80%;/>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdurairaj-hub&label=Profile%20views&color=0e75b6&style=flat" alt="jdurairaj-hub" /> </p>
 
-- 🔭 I’m currently working on [Learn Fast]((https://github.com/Jdurairaj-hub/LearnFast))
+- 🌱 Learning **DevOps** and **Cloud Development**  
 
-- 🌱 I’m currently learning **DevOps**
+- 💬 Talk to me about **Software Development** and **DevOps**  
 
-- 💬 Ask me about **Software Engineering/DevOps**
+- 📫 Reach me: **john.victor@dal.com**  
 
-- 📫 How to reach me **johnvictor843@hotmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yPYeCRWFCiNjpGYZ8iysqk-B0Zlgqe9p/view?usp=sharing](https://drive.google.com/file/d/1yPYeCRWFCiNjpGYZ8iysqk-B0Zlgqe9p/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ john-victor-stephen-durairaj-a400a9230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ john-victor-stephen-durairaj-a400a9230" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/john-victor-stephen-durairaj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://johnvictor.me/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
