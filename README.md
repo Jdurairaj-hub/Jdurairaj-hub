@@ -1,9 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm John Victor</h1>
-<p align="center">
-  <img src="./image_github.jpeg" alt="Profile Banner" width="700px" height="400px" />
-</p>
+
 
 - 🌱 Learning **DevOps** and **Cloud Development**  
 - 💬 Talk to me about **Software Development** and **DevOps**  
