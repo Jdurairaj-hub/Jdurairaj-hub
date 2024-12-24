@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://johnvictor.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Portfolio" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Website" height="30" width="40" />
   </a>
 </p>
 
