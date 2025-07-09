@@ -5,7 +5,7 @@
 
 - 🌱 Learning **DevOps** and **Cloud Development**  
 - 💬 Talk to me about **Software Development** and **DevOps**  
-- 📫 Reach me: **john.victor@dal.com**
+- 📫 Reach me: **john.victor@dal.ca**
 
 ---
 
